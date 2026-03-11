@@ -1,27 +1,22 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Amanderson%20Rodrigo&fontSize=70" width="100%" />
-</div>
-
 # Olá, eu sou o Amanderson! 👋
 
 Repositório de estudos focado no desenvolvimento Front-end avançado. Atualmente aprofundando em JavaScript (ES6+), Lógica e Estruturas de Dados com os cursos do Luiz Otávio e Origamid.
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Aqui estão as tecnologias que venho utilizando e estudando diariamente:
 
----
-
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandersonrodrigo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandersonrodrigo&layout=compact&langs_count=7&theme=radical" />
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
----
-
 ## 🚀 Próximos Passos
+
+Meus objetivos de estudo para o próximo trimestre incluem:
 
 * [ ] Iniciar projetos práticos com **React**.
 * [ ] Integrar **TypeScript** nos estudos de Front-end.
